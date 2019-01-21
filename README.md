@@ -1,2 +1,2 @@
 # updog
-API developed to support Updog; developed at HackerYou Node js workshop Jan 2019
+RESTful API developed to support Updog. Developed at HackerYou node.js workshop Jan 2019.

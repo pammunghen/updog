@@ -12,3 +12,5 @@ Routes
 - DELETE `/api/pets/:pet_id` Delete pet!
 
 Available at: https://nodeupdog.herokuapp.com/
+
+Node.js will need to be added/installed to run.
